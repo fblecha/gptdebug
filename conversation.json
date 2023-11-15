@@ -1,0 +1,28 @@
+{
+    "user_input": "",
+    "llm_response": "",
+    "children": [
+        {
+            "user_input": "hi",
+            "llm_response": "LLM Echo: hi",
+            "children": [
+                {
+                    "user_input": "expert A",
+                    "llm_response": "LLM Echo: expert A",
+                    "children": []
+                },
+                {
+                    "user_input": "expert B",
+                    "llm_response": "LLM Echo: expert B",
+                    "children": [
+                        {
+                            "user_input": "expert B1",
+                            "llm_response": "LLM Echo: expert B1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
